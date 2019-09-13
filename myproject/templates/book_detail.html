@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block content %}
+
+    <div class="row">
+        <div class="col-sm-6">
+            <h1 class="font-weight-bold">{{ title }}</h1>
+
+            <p>{{ instance.author }}</p>
+
+            <p><span class="font-weight-bold">Timestamp:</span> {{ instance.timestamp }}</p>
+
+            {% if instance.image %}
+                <p><img src="{{ instance.image.url }}" width="400px"></p>
+            {% else %}
+                <p>Image: No image</p>
+            {% endif %}
+        </div>
+        <div class="col-sm-6">
+            <br>
+            <p>{{ instance.description }}</p>
+
+            {% if instance.epub_latin %}
+                <p class="text-center"><a href="http://192.168.0.101/oqyrman/{{ instance.epub_latin }}" class="btn btn-primary btn-block">Скачать на латинице</a></p>
+            {% else %}
+                <p>No epub</p>
+            {% endif %}
+
+            {% if instance.epub_cyrillic %}
+                <p class="text-center"><a href="http://192.168.0.101/oqyrman/{{ instance.epub_cyrillic }}" class="btn btn-primary btn-block">Скачать на кириллице</a></p>
+            {% else %}
+                <p>No epub</p>
+            {% endif %}
+
+
+            <a href="http://127.0.0.1:8000/" class="btn btn-danger btn-block">Назад</a>
+
+        </div>
+
+    </div>
+{% endblock content %}
