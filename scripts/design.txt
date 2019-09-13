@@ -1,0 +1,19 @@
+Oqyrman
+Website
+Font - Roboto Mono
+#666 - text color 
+#222 - heading color
+#f8f8f8 - background grey color
+#999 - hover text color
+#6a3a20 - main color
+rgba(255,255,255,0.8) - supporting color
+#f0506e - red color
+
+
+
+Android OS
+4 bottom tabs
+1) Library
+2) Discover
+3) Community
+4) Profile
