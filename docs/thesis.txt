@@ -1,0 +1,16 @@
+1) Software development for customer service system in various areas of activities
+	Universal platform for barbershop, beauty salon, consulting agency, psychologist
+	- registration by phone number
+	- making appointments(запись клиентов)
+	- chat
+	- accounting report(бухгалтерский отчет)
+	- managing clients/viewing availibility
+
+2) SDU assistant
+	Advanced assistant with the portal prototype version
+	- timetable(lesson with notification)
+	- portal(without registration)
+	- new service for homework assignment
+	- academic calendar
+	- mini-map of university
+	- news aggregator(from official site, vk groups)

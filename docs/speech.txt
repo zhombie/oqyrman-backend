@@ -1,0 +1,44 @@
+1) My name is Zhomart Rsaliyev. And today, I will introduce a mobile application for Android operating system, which gives an opportunity of reading books in 2 alphabets, Cyrillic and Latin. 
+
+2) Let's begin our presentation with the quotation of great Kazakh poet, Abai Qunanbaiuly. 
+- "You - are a little brick in the wall of the world. Find your place in it." This quotation has a deep meaning and will point us to the further slides.
+
+3) Well, I think there is no need of telling that Kazakhstan government is going to change the alphabet. 
+- But, in order to refresh your mind, let's recall the short chronology of story. 
+
+4) Half year ago, the President of Kazakhstan Republic declared a decree of transition of the Kazakh language from Cyrillic to Latin script. 
+- Then, the public and the media started discussing this situation widely. It became a popular theme in daily news and broke the records. Thus, it caused furious reaction of community. Everyone shared their feelings on social networks and messengers.
+  
+5) In order to make understanding easier, I divided the chronology into 3 parts.
+- Digraph
+- Apostrophe
+- and Acute accent
+
+6) Firstly, digraph. Digraph is two letters that make one sound, like "sh" in English. This alphabet consisted of 25 letters and 8 digraphs.
+I think everyone knows the ridiculous incident about the word "saebiz". It had done a quite sensation among internet users and positive mood of society changed to negative immediately. So, government decided to rethink a problem.
+
+7) Secondly, apostrophe. It was a second huge disaster happened with us. Therefore, new Latin alphabet criticized as Apostrophe Catastrophe. On the other hand, it has good sides, because from this time, community started helping with improvement. Developers introduced their own online services for translation and new keyboards for typing. It became a trend.
+
+8) Thirdly and finally, acute accent. The last declared alphabet and the most successful. It is similar to languages 	of our ancestors and much more comfortable.
+
+9) Here, as you see 2 last versions and it is clear that the last one is the best.
+
+10) So, we have reached to the core of presentation.
+Motivation.
+I had 3 types of motivations in making the platform.
+- Adaptation. I want to help the nation with the adaptation.
+- Expenditure. I want to show that there is no need of wasting money.
+- Content-making. I want to raise the level of content-making in our country.
+Also, I want to help independent writers and make a bridge between classical and modern writers.
+
+11) Oqyrman is a server-side application. This platform collects book readers into one place and offers unique designed books. And today, there is available 8 books in online catalogue. It is just a beginning and every week, I will try to add 50 books to collection.
+It has back-end on Django web-framework and android as front-end.
+
+12) Django helped me with creating API calls for android. API is like a waiter in a restaurant who brings you what you ask.
+And my project has 2 sides of django implementation.
+
+13) Firstly, it is an administration page where I create books and publish to server. It is invisible for regular users.
+
+14) It is details page and it is done for library management.
+
+15) And here, you can see JSON data page which sends information to application. Also, API documentation is already written in thesis.

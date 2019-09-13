@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="bookid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>kk</dc:language>
+    <dc:creator>Sábıt Muqanov</dc:creator>
+    <dc:title>Botagóz</dc:title>
+    <dc:contributor>Oqyrman</dc:contributor>
+    <meta content="0.9.7" name="Sigil version" />
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2017-02-24</dc:date>
+    <dc:identifier scheme="uuid" id="bookid">fca1b41d-00cf-43f4-a786-b67c8f83de09</dc:identifier>
+    <meta name="cover" content="" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="book_toc_id" href="book_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="css"/>
+    <item id="id1" href="content_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="content_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="content_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="content_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="content_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="content_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="content_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="content_8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id9" href="content_9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id10" href="content_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id11" href="content_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id12" href="content_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id13" href="content_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id14" href="content_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id15" href="content_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id16" href="content_16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="timesbd" href="Fonts/timesbd.ttf" media-type="application/x-font-ttf"/>
+    <item id="times" href="Fonts/times.ttf" media-type="application/x-font-ttf"/>
+    <item id="timesi" href="Fonts/timesi.ttf" media-type="application/x-font-ttf"/>
+    <item id="timesbi" href="Fonts/timesbi.ttf" media-type="application/x-font-ttf"/>
+    <item id="Muqanov-botagoz.png" href="Images/Muqanov-botagoz.png" media-type="image/png"/>
+    <item id="cover.xhtml" href="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="book_toc_id"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="book_toc.xhtml#maintoc"/>
+    <reference type="cover" title="Cover" href="cover.xhtml"/>
+  </guide>
+</package>

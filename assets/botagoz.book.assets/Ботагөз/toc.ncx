@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+ <meta content="fca1b41d-00cf-43f4-a786-b67c8f83de09" name="dtb:uid"/>
+ <meta content="2" name="dtb:depth"/>
+ <meta content="Online Media Technologies Ltd." name="dtb:generator"/>
+ <meta content="0" name="dtb:totalPageCount"/>
+ <meta content="0" name="dtb:maxPageNumber"/>
+ <doctitle>
+  <text>
+   Ботагөз
+  </text>
+ </doctitle>
+ <docauthor>
+  <text>
+  </text>
+ </docauthor>
+ <navmap>
+  <navpoint class="chapter" id="baa165ac-f561-41dc-b397-8f8db6d347e4" playorder="1">
+   <navlabel>
+    <text>
+     БІРІНШІ БӨЛІМ
+    </text>
+   </navlabel>
+   <content src="content_1.xhtml">
+   </content>
+  </navpoint>
+  <navpoint class="chapter" id="dddcf456-1aee-44a5-94af-67a8fb2f2234" playorder="2">
+   <navlabel>
+    <text>
+     ЕКІНШІ БӨЛІМ
+    </text>
+   </navlabel>
+   <content src="content_7.xhtml">
+   </content>
+  </navpoint>
+  <navpoint class="chapter" id="9706063d-f905-4305-b910-d2897627484c" playorder="3">
+   <navlabel>
+    <text>
+     ҮШІНШІ БӨЛІМ
+    </text>
+   </navlabel>
+   <content src="content_12.xhtml">
+   </content>
+  </navpoint>
+  <navpoint class="chapter" id="860e5133-75c2-459a-8b1b-e9ddf2fc9c7b" playorder="4">
+   <navlabel>
+    <text>
+     КӨКШЕНІҢ КЕУДЕСІНДЕ
+    </text>
+   </navlabel>
+   <content src="content_16.xhtml">
+   </content>
+  </navpoint>
+ </navmap>
+</ncx>

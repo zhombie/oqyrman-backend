@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="bookid" version="2.0" xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <metadata>
+  <dc:publisher>
+  </dc:publisher>
+  <dc:language>
+  </dc:language>
+  <dc:creator>
+  </dc:creator>
+  <dc:title>
+   Сабит Муканов. Ботагоз
+  </dc:title>
+  <dc:contributor>
+   Online Media Technologies Ltd.
+  </dc:contributor>
+  <dc:identifier id="bookid" opf:scheme="uuid">
+   fca1b41d-00cf-43f4-a786-b67c8f83de09
+  </dc:identifier>
+ </metadata>
+ <manifest>
+  <opf:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml">
+  </opf:item>
+  <item href="book_toc.xhtml" id="book_toc_id" media-type="application/xhtml+xml">
+  </item>
+  <item href="stylesheet.css" id="css" media-type="text/css">
+  </item>
+  <item href="content_1.xhtml" id="id1" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_2.xhtml" id="id2" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_3.xhtml" id="id3" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_4.xhtml" id="id4" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_5.xhtml" id="id5" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_6.xhtml" id="id6" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_7.xhtml" id="id7" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_8.xhtml" id="id8" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_9.xhtml" id="id9" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_10.xhtml" id="id10" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_11.xhtml" id="id11" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_12.xhtml" id="id12" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_13.xhtml" id="id13" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_14.xhtml" id="id14" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_15.xhtml" id="id15" media-type="application/xhtml+xml">
+  </item>
+  <item href="content_16.xhtml" id="id16" media-type="application/xhtml+xml">
+  </item>
+  <item href="fonts/timesbd.ttf" id="timesbd" media-type="application/x-font-ttf">
+  </item>
+  <item href="fonts/times.ttf" id="times" media-type="application/x-font-ttf">
+  </item>
+  <item href="fonts/timesi.ttf" id="timesi" media-type="application/x-font-ttf">
+  </item>
+  <item href="fonts/timesbi.ttf" id="timesbi" media-type="application/x-font-ttf">
+  </item>
+ </manifest>
+ <spine toc="ncx">
+  <itemref idref="id1">
+  </itemref>
+  <itemref idref="id2">
+  </itemref>
+  <itemref idref="id3">
+  </itemref>
+  <itemref idref="id4">
+  </itemref>
+  <itemref idref="id5">
+  </itemref>
+  <itemref idref="id6">
+  </itemref>
+  <itemref idref="id7">
+  </itemref>
+  <itemref idref="id8">
+  </itemref>
+  <itemref idref="id9">
+  </itemref>
+  <itemref idref="id10">
+  </itemref>
+  <itemref idref="id11">
+  </itemref>
+  <itemref idref="id12">
+  </itemref>
+  <itemref idref="id13">
+  </itemref>
+  <itemref idref="id14">
+  </itemref>
+  <itemref idref="id15">
+  </itemref>
+  <itemref idref="id16">
+  </itemref>
+ </spine>
+ <guide>
+  <reference href="book_toc.xhtml#maintoc" title="Table of Contents" type="toc">
+  </reference>
+ </guide>
+</package>
