@@ -1,8 +1,8 @@
 # oqyrman-django
-backend
+<h1>backend</h1>
 
 Modules
--> pip freeze
+**-> pip freeze**
 
 certifi==2019.6.16
 
@@ -13,11 +13,11 @@ pytz==2019.2
 sqlparse==0.3.0
 
 
--> pip install djangorestframework
+**-> pip install djangorestframework**
 
--> pip install djangorestframework-jwt
+**-> pip install djangorestframework-jwt**
 
 
 In order to run local server
 
--> python3 manage.py runserver
+**-> python3 manage.py runserver**
